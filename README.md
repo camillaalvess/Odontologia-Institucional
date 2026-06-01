@@ -1,4 +1,4 @@
-Clínica Odontológica
+Landing Page para Clínica Odontológica
 
 Projeto desenvolvido com HTML, CSS e JavaScript, focado na criação de uma landing page moderna, responsiva e intuitiva para clínicas odontológicas.
 
